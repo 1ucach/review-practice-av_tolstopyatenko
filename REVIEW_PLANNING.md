@@ -52,7 +52,7 @@
 ## №3: Кросс-ревью
 
 Ссылка на комментарии:  
-[Google Docs / GitHub Review](https://github.com/Dxscve/study/tree/main)
+https://github.com/Dxscve/study/tree/main
 
 Критерии оценки:
 - Полнота чек-листа
