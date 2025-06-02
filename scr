@@ -1,1 +1,1 @@
-print ("hello world")
+print ("hello world") #выводит "hello world" на экран
