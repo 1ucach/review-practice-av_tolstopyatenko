@@ -12,6 +12,7 @@
   - `report_tech/Отчет_Firefox_vs_brave.md` - технический отчет
   - `T4/presentation/Презентация_Firefox_vs_brave.pptx` - презентация
   - `T5/report_questions.doc` - отчет по ответам
+  - `T6/Отчет_T6.docx` - отчет по тесту
 
 
 ## Этапы выполнения
