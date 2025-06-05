@@ -11,6 +11,9 @@
   - `data/measurements.xlsx` - данные измерений
   - `report_tech/Отчет_Firefox_vs_brave.md` - технический отчет
   - `T4/presentation/Презентация_Firefox_vs_brave.pptx` - презентация
+    - `T4/date/measurements.xlxs` - таблица к заданию 4
+    - `T4/report_tech/technical_report.md` - отчет к заданию 4
+    - `T4/report_tech/Отчет_Firefox_vs_Brave.docx` - отчет к заданию 4
   - `T5/report_questions.doc` - отчет по ответам
   - `T6/Отчет_T6.docx` - отчет по тесту
   - `T7/Отчет_T7.doc` - отчет по тесту
